@@ -52,5 +52,5 @@
   main div img {
    padding-top: 10%;
    max-width: 100%;
-   overflow: hidden;
+   max-height: 50vh;
   }
